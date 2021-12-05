@@ -23,13 +23,13 @@
   "templates": [
     {
       "name": "vue2-admin-template",
-      "version": "1.0.0",
+      "version": "0.1.0",
       "installCommand": "npm install",
       "startCommand": "npm run serve"
     },
     {
       "name": "eggjs-template",
-      "version": "1.0.0"
+      "version": "0.1.0"
     }
   ]
 }
