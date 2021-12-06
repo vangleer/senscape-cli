@@ -20,7 +20,7 @@
 #### ⚡ 使用说明
 ```bash
 # 克隆项目
-git clone https://gitee.com/coderhwt/senscape-cli.git
+git clone https://github.com/java0088/senscape-cli.git
 
 # 进入项目
 cd senscape-cli
