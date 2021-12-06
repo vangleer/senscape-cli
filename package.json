@@ -1,6 +1,6 @@
 {
   "name": "senscape-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -28,8 +28,10 @@
       "startCommand": "npm run serve"
     },
     {
-      "name": "eggjs-template",
-      "version": "0.1.0"
+      "name": "vue-next-admin",
+      "version": "1.2.0",
+      "installCommand": "npm install",
+      "startCommand": "npm run dev"
     }
   ]
 }
